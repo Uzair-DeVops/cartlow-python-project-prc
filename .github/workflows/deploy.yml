@@ -37,15 +37,13 @@ jobs:
           cd /home/ubuntu/cartlow-python-project-prc
           git pull origin main
 
-          # 🔐 Write secrets into .env
-          cat <<EOF > .env
-          HOSTED_CLICKHOUSE_URL=${HOSTED_CLICKHOUSE_URL}
-          HOSTED_MYSQL_URL=${HOSTED_MYSQL_URL}
-          PORT=${PORT}
-          SENTRY_DSN=${SENTRY_DSN}
-          EOF
+          # ✅ Create .env file line by line using echo
+          echo "HOSTED_MYSQL_URL=${HOSTED_MYSQL_URL}" > .env
+          echo "HOSTED_CLICKHOUSE_URL=${HOSTED_CLICKHOUSE_URL}" >> .env
+          echo "SENTRY_DSN=${SENTRY_DSN}" >> .env
+          echo "PORT=${PORT}" >> .env
 
-          # 🐳 Rebuild and restart the Docker Compose stack
+          # 🐳 Rebuild and restart Docker
           sudo docker-compose down
           sudo docker-compose build
           sudo docker-compose up -d
