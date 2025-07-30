@@ -42,7 +42,7 @@ jobs:
 
           echo "Creating env ############################################################3..."
           # ✅ Create .env file line by line using echo
-          echo "HOSTED_MYSQL_URL=${{ secrets.HOSTED_CLICKHOUSE_URL }}" > .env
+          echo "HOSTED_MYSQL_URL=${{ secrets.HOSTED_MYSQL_URL }}" > .env
           echo "HOSTED_CLICKHOUSE_URL=${{ secrets.HOSTED_CLICKHOUSE_URL }}" >> .env
           echo "SENTRY_DSN=${{ secrets.SENTRY_DSN }}" >> .env
           echo "PORT=${{ secrets.PORT }}" >> .env
