@@ -4,10 +4,15 @@ on:
   push:
     branches: [main]
 
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
+    env:
+      HOSTED_CLICKHOUSE_URL: ${{ secrets.HOSTED_CLICKHOUSE_URL }}
+      HOSTED_MYSQL_URL: ${{ secrets.HOSTED_MYSQL_URL }}
+      PORT: ${{ secrets.PORT }}
+      SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
 
     steps:
     - name: Checkout Code
@@ -22,6 +27,13 @@ jobs:
         script: |
           cd /home/ubuntu/cartlow-python-project-prc
           git pull origin main
+
+          # 🔧 Generate .env file on EC2
+          echo "HOSTED_CLICKHOUSE_URL=${HOSTED_CLICKHOUSE_URL}" > .env
+          echo "HOSTED_MYSQL_URL=${HOSTED_MYSQL_URL}" >> .env
+          echo "PORT=${PORT}" >> .env
+          echo "SENTRY_DSN=${SENTRY_DSN}" >> .env
+
           sudo docker-compose down
           sudo docker-compose build
           sudo docker-compose up -d
