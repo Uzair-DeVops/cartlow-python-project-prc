@@ -5,10 +5,6 @@ services:
       dockerfile: Dockerfile
     container_name: fastapi_app
     ports:
-      - "${PORT}:8000"
-    environment:
-      - HOSTED_MYSQL_URL=${HOSTED_MYSQL_URL}
-      - HOSTED_CLICKHOUSE_URL=${HOSTED_CLICKHOUSE_URL}
-      - SENTRY_DSN=${SENTRY_DSN}
-      - PORT=${PORT}
-
+      - "8000:8000"
+    env_file:
+      - .env

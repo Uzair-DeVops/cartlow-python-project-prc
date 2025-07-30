@@ -27,11 +27,13 @@ jobs:
             cd /home/ubuntu/cartlow-python-project-prc
             git pull origin main
 
-            # Export environment variables
-            export HOSTED_MYSQL_URL="${{ secrets.HOSTED_MYSQL_URL }}"
-            export HOSTED_CLICKHOUSE_URL="${{ secrets.HOSTED_CLICKHOUSE_URL }}"
-            export SENTRY_DSN="${{ secrets.SENTRY_DSN }}"
-            export PORT="${{ secrets.PORT }}"
+            # Create/update .env file
+            cat > .env << EOF
+            HOSTED_MYSQL_URL=${{ secrets.HOSTED_MYSQL_URL }}
+            HOSTED_CLICKHOUSE_URL=${{ secrets.HOSTED_CLICKHOUSE_URL }}
+            SENTRY_DSN=${{ secrets.SENTRY_DSN }}
+            PORT=${{ secrets.PORT }}
+            EOF
 
             # Rebuild and restart Docker
             sudo docker-compose down
