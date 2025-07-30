@@ -186,6 +186,12 @@ wheels = [
 ]
 
 [[package]]
+name = "compile"
+version = "1.0.3"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a4/84/733aec2a500843ef529efcedb2a786ccbf4613708d951bb4e9d0793186c3/compile-1.0.3.tar.gz", hash = "sha256:0f70a21ca54338dc3d223b9a107fe9f90e27c466422c65b02b6306a893c65a5e", size = 6015, upload-time = "2019-11-14T01:37:35.716Z" }
+
+[[package]]
 name = "cryptography"
 version = "45.0.5"
 source = { registry = "https://pypi.org/simple" }
@@ -233,6 +239,7 @@ source = { editable = "." }
 dependencies = [
     { name = "clickhouse-connect" },
     { name = "clickhouse-driver" },
+    { name = "compile" },
     { name = "cryptography" },
     { name = "fastapi" },
     { name = "pydantic-settings" },
@@ -247,6 +254,7 @@ dependencies = [
 requires-dist = [
     { name = "clickhouse-connect", specifier = ">=0.7.0" },
     { name = "clickhouse-driver", specifier = ">=0.2.0" },
+    { name = "compile", specifier = ">=1.0.3" },
     { name = "cryptography", specifier = ">=45.0.5" },
     { name = "fastapi", specifier = ">=0.116.1" },
     { name = "pydantic-settings", specifier = ">=2.1.0" },
