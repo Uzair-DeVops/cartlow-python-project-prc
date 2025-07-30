@@ -1438,3 +1438,16 @@ DB::Exception: cartlow: Authentication failed: password is incorrect, or there i
 2025-07-30 18:32:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m🛑 Shutting down Data Migration Project...[0m
 2025-07-30 18:32:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ ClickHouse client cleanup completed[0m
 2025-07-30 18:32:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:53 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 19:53:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:35 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 19:53:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 19:54:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 19:54:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 19:54:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 19:54:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 19:54:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 19:54:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:53 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 19:54:38 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:35 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 19:54:38 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 19:54:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 19:54:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 19:54:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
