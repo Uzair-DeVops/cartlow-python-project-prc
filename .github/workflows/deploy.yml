@@ -57,6 +57,7 @@ jobs:
           HOSTED_CLICKHOUSE_URL=${{ secrets.HOSTED_CLICKHOUSE_URL }}
           SENTRY_DSN=${{ secrets.SENTRY_DSN }}
           PORT=${{ secrets.PORT }}
+          DOCKERHUB_USERNAME=${{ secrets.DOCKERHUB_USERNAME }}
           EOF
 
           echo "🐳 Pulling latest image..."
