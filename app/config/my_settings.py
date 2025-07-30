@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     HOSTED_CLICKHOUSE_URL: str = os.getenv("HOSTED_CLICKHOUSE_URL")
     
     # Other settings
-    PORT: int = os.getenv("PORT")
+    PORT: int = int(os.getenv("PORT"))
     SENTRY_DSN: str = os.getenv("SENTRY_DSN")
     
     class Config:
