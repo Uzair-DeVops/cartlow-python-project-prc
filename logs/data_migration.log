@@ -1366,3 +1366,42 @@ DB::Exception: default: Authentication failed: password is incorrect or there is
 2025-07-30 14:56:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
 2025-07-30 14:56:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
 2025-07-30 14:56:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 16:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:35 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 16:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 16:51:48 - data_migration.UZAIR - [91m❌ ERROR[0m - initialize_mysql_engine:32 - [91m❌ Could not initialize MySQL engine: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m
+2025-07-30 16:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 16:51:48 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:61 - [93m⚠️ Could not initialize ClickHouse client: Code: 516.
+DB::Exception: cartlow: Authentication failed: password is incorrect, or there is no user with such name.. Stack trace:
+
+0. DB::Exception::Exception(DB::Exception::MessageMasked&&, int, bool) @ 0x000000000fbf72fb
+1. DB::Exception::Exception(PreformattedMessage&&, int) @ 0x0000000009d95a8c
+2. DB::AccessControl::authenticate(DB::Credentials const&, Poco::Net::IPAddress const&, DB::ClientInfo const&) const @ 0x0000000012a032a3
+3. DB::Session::authenticate(DB::Credentials const&, Poco::Net::SocketAddress const&, std::vector<String, std::allocator<String>> const&) @ 0x0000000013ef6cf9
+4. DB::Session::authenticate(String const&, String const&, Poco::Net::SocketAddress const&, std::vector<String, std::allocator<String>> const&) @ 0x0000000013ef62d2
+5. DB::TCPHandler::receiveHello() @ 0x00000000155a3d08
+6. DB::TCPHandler::runImpl() @ 0x000000001559685d
+7. DB::TCPHandler::run() @ 0x00000000155b8ad8
+8. Poco::Net::TCPServerConnection::start() @ 0x0000000018d04d87
+9. Poco::Net::TCPServerDispatcher::run() @ 0x0000000018d051d9
+10. Poco::PooledThread::run() @ 0x0000000018cd01db
+11. Poco::ThreadImpl::runnableEntry(void*) @ 0x0000000018cce6bd
+12. ? @ 0x0000000000094ac3
+13. ? @ 0x0000000000125a04
+[0m
+2025-07-30 16:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 16:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 16:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:53 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 16:52:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:35 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 16:52:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 16:52:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 16:52:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 16:52:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 16:52:38 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 16:52:38 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 16:52:38 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:53 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 16:52:40 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:35 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 16:52:40 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 16:52:40 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 16:52:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 16:52:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:53 - [92m✅ MySQL engine cleanup completed[0m
