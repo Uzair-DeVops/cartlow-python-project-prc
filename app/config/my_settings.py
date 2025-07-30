@@ -11,6 +11,7 @@ class Settings(BaseSettings):
     MYSQL_PASSWORD: str = os.getenv("MYSQL_PASSWORD")
     MYSQL_DATABASE: str = os.getenv("MYSQL_DATABASE")
     
+    HOSTED_MYSQL_URL: str = os.getenv("HOSTED_MYSQL_URL")
     # Construct MySQL URL
     @property
     def MYSQL_DATABASE_URL(self) -> str:
@@ -24,6 +25,7 @@ class Settings(BaseSettings):
     CLICKHOUSE_PASSWORD: str = os.getenv("CLICKHOUSE_PASSWORD")
     CLICKHOUSE_DATABASE: str = os.getenv("CLICKHOUSE_DATABASE")
     
+    HOSTED_CLICKHOUSE_URL: str = os.getenv("HOSTED_CLICKHOUSE_URL")
     # Construct ClickHouse URL
     @property
     def CLICKHOUSE_DATABASE_URL(self) -> str:

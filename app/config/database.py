@@ -16,7 +16,7 @@ def initialize_mysql_engine():
         get_logger(name="UZAIR").info("🔧 Initializing MySQL engine...")
         # Create SQLModel engine for MySQL ORM operations only
         mysql_engine = create_engine(
-            settings.MYSQL_DATABASE_URL,
+            settings.HOSTED_MYSQL_URL,
             echo=True,  # Set to False in production
             pool_pre_ping=True,
             pool_recycle=300,
@@ -39,7 +39,7 @@ def initialize_clickhouse_client():
     Initialize ClickHouse client connection
     """
     try:
-        clickhouse_url = urlparse(settings.CLICKHOUSE_DATABASE_URL)
+        clickhouse_url = urlparse(settings.HOSTED_CLICKHOUSE_URL)
         get_logger(name="UZAIR").info("🗄️ Initializing ClickHouse client...")
         password = unquote(clickhouse_url.password) if clickhouse_url.password else ""
         

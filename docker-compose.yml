@@ -6,39 +6,12 @@ services:
     container_name: fastapi_app
     ports:
       - "8000:8000"
-    depends_on:
-      - mysql
-      - clickhouse-server
-    env_file:
-      - .env
-
-  mysql:
-    image: mysql:latest
-    container_name: mysql-container
-    restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: uzairyasin123
-      MYSQL_DATABASE: my_database
-      MYSQL_USER: uzair
-      MYSQL_PASSWORD: uzairyasin123
-    ports:
-      - "3307:3306"
-    volumes:
-      - mysql_data:/var/lib/mysql
-
-  clickhouse-server:
-    image: clickhouse/clickhouse-server:latest
-    container_name: clickhouse-server
-    restart: always
-    environment:
-      - CLICKHOUSE_USER=default
-      - CLICKHOUSE_PASSWORD=uzairyasin123
-    ports:
-      - "8123:8123"
-      - "9000:9000"
-    volumes:
-      - clickhouse_data:/var/lib/clickhouse
-
-volumes:
-  mysql_data:
-  clickhouse_data:
+      - HOSTED_MYSQL_URL="mysql+pymysql://uzair:uzairyasin123@54.152.153.225:3307/my_database"
+      - HOSTED_CLICKHOUSE_URL="clickhouse://default@54.152.153.225:9000/default"
+        # PORT
+      -  PORT=8000
+        # SENTRY DSN
+      -  SENTRY_DSN="https://51d84b96e556490bb0e17bc4c95f7cc9@o4509756111060992.ingest.us.sentry.io/4509756114075648"
+  
+  
