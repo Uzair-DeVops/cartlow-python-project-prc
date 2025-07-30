@@ -2,7 +2,6 @@
 name = "data-migration-project"
 version = "0.1.0"
 description = "A comprehensive data migration tool with MySQL to ClickHouse support"
-readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "fastapi>=0.116.1",
