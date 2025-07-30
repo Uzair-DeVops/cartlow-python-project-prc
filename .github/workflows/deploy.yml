@@ -28,7 +28,7 @@ jobs:
           # ✅ Clone repo if not already present
           if [ ! -d "/home/ubuntu/cartlow-python-project-prc/.git" ]; then
             echo "Cloning the repository..."
-            git clone https://github.com/lukecartlow/cartlow-python-project-prc.git /home/ubuntu/cartlow-python-project-prc
+            git clone https://github.com/Uzair-DeVops/cartlow-python-project-prc.git /home/ubuntu/cartlow-python-project-prc
           else
             echo "Repository already exists. Skipping clone."
           fi
