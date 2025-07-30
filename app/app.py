@@ -36,7 +36,7 @@ async def startup_event():
     
     # Initialize and store in app.state
     app.state.mysql_engine = initialize_mysql_engine()
-    # app.state.clickhouse_client = initialize_clickhouse_client()
+    app.state.clickhouse_client = initialize_clickhouse_client()
     
 
 
