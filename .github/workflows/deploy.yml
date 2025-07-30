@@ -40,6 +40,12 @@ jobs:
         username: ${{ secrets.EC2_USER }}
         key: ${{ secrets.EC2_SSH_KEY }}
         script: |
+          # Clone or pull latest code
+          if [ ! -d "/home/ubuntu/cartlow-python-project-prc/.git" ]; then
+            echo "📦 Cloning project repo..."
+            git clone https://github.com/Uzair-DeVops/cartlow-python-project-prc.git 
+          fi
+          echo "📁 Navigating to project directory..."
           cd /home/ubuntu/cartlow-python-project-prc
 
           echo "📥 Pulling latest code..."
