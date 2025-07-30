@@ -27,23 +27,30 @@ jobs:
         script: |
           # ✅ Clone repo if not already present
           if [ ! -d "/home/ubuntu/cartlow-python-project-prc/.git" ]; then
-            echo "Cloning the repository..."
+            echo "Cloning the repository###########################################3..."
             git clone https://github.com/Uzair-DeVops/cartlow-python-project-prc.git /home/ubuntu/cartlow-python-project-prc
+            echo "Cloning Completed #####################################################..."
+
           else
             echo "Repository already exists. Skipping clone."
           fi
 
           # 📥 Pull latest code
+          echo "Going into the cartlow-python-project-prc directory ###############################..."
           cd /home/ubuntu/cartlow-python-project-prc
           git pull origin main
 
+          echo "Creating env ############################################################3..."
           # ✅ Create .env file line by line using echo
           echo "HOSTED_MYSQL_URL=${HOSTED_MYSQL_URL}" > .env
           echo "HOSTED_CLICKHOUSE_URL=${HOSTED_CLICKHOUSE_URL}" >> .env
           echo "SENTRY_DSN=${SENTRY_DSN}" >> .env
           echo "PORT=${PORT}" >> .env
+          echo "Created env ############################################################3..."
 
           # 🐳 Rebuild and restart Docker
+          echo "Rebuilding and restarting Docker ############################################################3..."
           sudo docker-compose down
           sudo docker-compose build
           sudo docker-compose up -d
+          echo "Rebuilding and restarting Docker Completed ############################################################3..."
