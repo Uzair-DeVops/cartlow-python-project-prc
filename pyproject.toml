@@ -1,0 +1,28 @@
+[project]
+name = "data-migration-project"
+version = "0.1.0"
+description = "A comprehensive data migration tool with MySQL to ClickHouse support"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.116.1",
+    "python-dotenv>=1.1.1",
+    "uvicorn>=0.35.0",
+    "sqlmodel>=0.0.14",
+    "pymysql>=1.1.0",
+    "clickhouse-connect>=0.7.0",
+    "clickhouse-driver>=0.2.0",
+    "pydantic-settings>=2.1.0",
+    "cryptography>=45.0.5",
+    "sentry-sdk[fastapi]>=2.34.0",
+]
+
+[project.scripts]
+data-migration = "app.run:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"] 

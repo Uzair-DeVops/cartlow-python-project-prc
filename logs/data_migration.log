@@ -1,0 +1,1368 @@
+2025-07-29 17:34:38 - data_migration - INFO - startup_event:11 - Starting up Data Migration Project...
+2025-07-29 17:34:38 - data_migration - INFO - initialize_mysql_client:45 - MySQL client initialized successfully
+2025-07-29 17:34:38 - data_migration - INFO - initialize_clickhouse_client:69 - ClickHouse client initialized successfully
+2025-07-29 17:34:38 - data_migration - INFO - initialize_mysql_engine:88 - MySQL engine initialized successfully
+2025-07-29 17:34:38 - data_migration - INFO - startup_event:15 - Application startup completed
+2025-07-29 17:35:52 - data_migration - [92mINFO[0m - startup_event:11 - [92mStarting up Data Migration Project...[0m
+2025-07-29 17:35:52 - data_migration - [92mINFO[0m - initialize_mysql_client:45 - [92mMySQL client initialized successfully[0m
+2025-07-29 17:35:52 - data_migration - [92mINFO[0m - initialize_clickhouse_client:69 - [92mClickHouse client initialized successfully[0m
+2025-07-29 17:35:52 - data_migration - [92mINFO[0m - initialize_mysql_engine:88 - [92mMySQL engine initialized successfully[0m
+2025-07-29 17:35:52 - data_migration - [92mINFO[0m - startup_event:15 - [92mApplication startup completed[0m
+2025-07-29 17:36:15 - data_migration - [92mℹ️ INFO[0m - startup_event:11 - [92mStarting up Data Migration Project...[0m
+2025-07-29 17:36:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:45 - [92mMySQL client initialized successfully[0m
+2025-07-29 17:36:15 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:69 - [92mClickHouse client initialized successfully[0m
+2025-07-29 17:36:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:88 - [92mMySQL engine initialized successfully[0m
+2025-07-29 17:36:15 - data_migration - [92mℹ️ INFO[0m - startup_event:15 - [92mApplication startup completed[0m
+2025-07-29 17:36:23 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:36:23 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:45 - [92mMySQL client initialized successfully[0m
+2025-07-29 17:36:23 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:69 - [92mClickHouse client initialized successfully[0m
+2025-07-29 17:36:23 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:88 - [92mMySQL engine initialized successfully[0m
+2025-07-29 17:36:23 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:36:45 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:36:46 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:36:58 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:36:59 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:37:11 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:37:17 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:39:25 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:39:27 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:39:28 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:39:35 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:39:38 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:39:43 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:39:52 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:40:02 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:40:07 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:40:08 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:40:09 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:40:12 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:40:15 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:40:28 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:33 - [92m🗄️ Initializing MySQL client...[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_client:46 - [92m✅ MySQL client initialized successfully[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 17:40:29 - data_migration - [92mℹ️ INFO[0m - startup_event:17 - [92m✅ Application startup completed successfully![0m
+2025-07-29 17:49:13 - data_migration - [92mℹ️ INFO[0m - shutdown_event:21 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:12:47 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:12:47 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:12:47 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:12:47 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:12:47 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:12:47 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:20:14 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:20:14 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:20:14 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:20:14 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:20:14 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:20:14 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:20:14 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:20:16 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:20:17 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:20:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:20:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:20:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:20:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:20:17 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:20:20 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:20:20 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:20:20 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:20:20 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:20:20 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:20:20 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:20:20 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:20:32 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:20:32 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:20:32 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:20:32 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:20:32 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:20:32 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:20:32 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:20:34 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:20:35 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:20:35 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:20:35 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:20:35 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:20:35 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:20:35 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:20:45 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:20:46 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:20:46 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:20:46 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:20:46 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:20:46 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:20:46 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:20:48 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:20:48 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:20:48 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:20:48 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:20:48 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:20:48 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:20:48 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:20 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:21 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:21 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:21 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:21 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:21 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:21 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:23 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:23 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:23 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:23 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:23 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:23 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:23 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:40 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:40 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:40 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:40 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:40 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:40 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:40 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:42 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:42 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:42 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:42 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:42 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:42 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:42 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:50 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:52 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:52 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:52 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:52 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:52 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:52 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:55 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:56 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:56 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:56 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:56 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:56 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:56 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:57 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:58 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:58 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:58 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:58 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:58 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:58 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:21:59 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:21:59 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:21:59 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:21:59 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:21:59 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:21:59 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:21:59 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:22:01 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:22:05 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:22:05 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:22:05 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:22:05 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:22:05 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:22:05 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:22:06 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:22:06 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:22:06 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:22:06 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:22:06 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:22:06 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:22:06 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:22:14 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:22:15 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:22:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:22:15 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:22:15 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:22:15 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:22:15 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:22:18 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:22:19 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:22:19 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:22:19 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:22:19 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:22:19 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:22:19 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:22:20 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:22:21 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:22:21 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:22:21 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:22:21 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:22:21 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:22:21 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:22:24 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:22:25 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:22:25 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:22:25 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:22:25 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:22:25 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:22:25 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:22:28 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:38:17 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:38:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:38:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:38:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:38:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:38:17 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:38:41 - data_migration - [91m❌ ERROR[0m - orders_migration:19 - [91mError reading orders from MySQL: (pymysql.err.ProgrammingError) (1146, "Table 'my_database.orders' doesn't exist")
+[SQL: SELECT orders.id, orders.customer_id, orders.order_date, orders.total_amount 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/f405)[0m
+2025-07-29 18:38:41 - data_migration - [91m❌ ERROR[0m - orders_migration_route:27 - [91mError in orders migration: (pymysql.err.ProgrammingError) (1146, "Table 'my_database.orders' doesn't exist")
+[SQL: SELECT orders.id, orders.customer_id, orders.order_date, orders.total_amount 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/f405)[0m
+2025-07-29 18:38:41 - data_migration - [91m❌ ERROR[0m - get_mysql_session:19 - [91m❌ MySQL session error: 500: (pymysql.err.ProgrammingError) (1146, "Table 'my_database.orders' doesn't exist")
+[SQL: SELECT orders.id, orders.customer_id, orders.order_date, orders.total_amount 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/f405)[0m
+2025-07-29 18:39:25 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:39:27 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:39:27 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:39:27 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:39:27 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:39:27 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:39:27 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:39:34 - data_migration - [92mℹ️ INFO[0m - orders_migration:15 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-29 18:41:34 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:45:05 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:45:05 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:45:05 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:45:05 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:45:05 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:45:05 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:54:36 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:54:36 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:54:36 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:54:36 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:54:36 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:54:36 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:54:48 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:56:26 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:56:26 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:56:26 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:56:26 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:56:26 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:56:26 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:56:27 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 18:57:02 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 18:57:02 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 18:57:02 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 18:57:02 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 18:57:02 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 18:57:02 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 18:57:03 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:10:21 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:10:21 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:10:21 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:10:21 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:10:21 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:10:21 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:10:29 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:13:58 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:13:58 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:13:58 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:13:58 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:13:58 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:13:58 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:14:13 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:14:16 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:14:16 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:14:17 - data_migration - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:14:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:14:17 - data_migration - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:14:17 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:30:20 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:30:20 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:30:20 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:30:20 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:30:20 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:30:20 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:31:08 - data_migration - [91m❌ ERROR[0m - orders_migration:19 - [91mError reading orders from MySQL: (pymysql.err.OperationalError) (1054, "Unknown column 'orders.amount' in 'field list'")
+[SQL: SELECT orders.id, orders.customer_id, orders.amount, orders.order_date 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m
+2025-07-29 19:31:08 - data_migration - [91m❌ ERROR[0m - orders_migration_route:27 - [91mError in orders migration: (pymysql.err.OperationalError) (1054, "Unknown column 'orders.amount' in 'field list'")
+[SQL: SELECT orders.id, orders.customer_id, orders.amount, orders.order_date 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m
+2025-07-29 19:31:08 - data_migration.UZAIR - [91m❌ ERROR[0m - get_mysql_session:18 - [91m❌ MySQL session error: 500: (pymysql.err.OperationalError) (1054, "Unknown column 'orders.amount' in 'field list'")
+[SQL: SELECT orders.id, orders.customer_id, orders.amount, orders.order_date 
+FROM orders]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m
+2025-07-29 19:32:24 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:32:26 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:32:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:32:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:32:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:32:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:32:26 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:32:41 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:32:47 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:32:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:32:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:32:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:32:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:32:47 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:32:57 - data_migration - [91m❌ ERROR[0m - orders_migration:19 - [91mError reading orders from MySQL: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:32:57 - data_migration - [91m❌ ERROR[0m - orders_migration_route:27 - [91mError in orders migration: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:32:57 - data_migration.UZAIR - [91m❌ ERROR[0m - get_mysql_session:18 - [91m❌ MySQL session error: 500: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:33:28 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:33:31 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:33:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:33:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:33:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:33:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:33:31 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:33:48 - data_migration.UZAIR - [91m❌ ERROR[0m - orders_migration:19 - [91mError reading orders from MySQL: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:33:48 - data_migration - [91m❌ ERROR[0m - orders_migration_route:27 - [91mError in orders migration: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:33:48 - data_migration.UZAIR - [91m❌ ERROR[0m - get_mysql_session:18 - [91m❌ MySQL session error: 500: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:34:49 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:34:50 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:34:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:34:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:34:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:34:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:34:50 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:35:29 - data_migration.UZAIR - [91m❌ ERROR[0m - orders_migration:19 - [91mError reading orders from MySQL: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:35:29 - data_migration - [91m❌ ERROR[0m - orders_migration_route:27 - [91mError in orders migration: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:35:29 - data_migration.UZAIR - [91m❌ ERROR[0m - get_mysql_session:18 - [91m❌ MySQL session error: 500: Column expression, FROM clause, or other columns clause element expected, got <class 'app.models.mysql_models.Orders'>.[0m
+2025-07-29 19:37:31 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:37:34 - data_migration - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:37:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:37:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:37:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:37:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:37:35 - data_migration - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:37:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - orders_migration:15 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-29 19:40:59 - data_migration - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:41:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:41:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:41:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:41:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:41:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:41:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:43:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:43:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:13 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:43:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:43:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:43:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:43:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:43:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:19 - [92m✅ Application startup completed[0m
+2025-07-29 19:44:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:24 - [92m Shutting down Data Migration Project...[0m
+2025-07-29 19:44:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:17 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:44:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:44:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:44:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:44:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:44:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:23 - [92m✅ Application startup completed[0m
+2025-07-29 19:44:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:28 - [92m Shutting down Data Migration Project...[0m
+2025-07-29 19:44:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:23 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:44:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:44:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:44:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:44:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:44:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:29 - [92m✅ Application startup completed[0m
+2025-07-29 19:44:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:34 - [92m Shutting down Data Migration Project...[0m
+2025-07-29 19:44:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:31 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:44:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:44:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:44:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:44:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:44:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:37 - [92m✅ Application startup completed[0m
+2025-07-29 19:44:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:42 - [92m Shutting down Data Migration Project...[0m
+2025-07-29 19:44:38 - data_migration.UZAIR - [92mℹ️ INFO[0m - lifespan:32 - [92m Shutting down Data Migration Project...[0m
+2025-07-29 19:44:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:44:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:44:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:44:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:44:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:44:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:44:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:44:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:44:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:44:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:44:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:44:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:44:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:44:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:44:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:44:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:44:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:44:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:44:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:44:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:44:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:44:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:45:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:45:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:45:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:45:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:45:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:45:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:45:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:45:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:45:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:45:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:45:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:45:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:45:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:45:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:45:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:45:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:45:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:45:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:45:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:45:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:45:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:45:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:45:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:45:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:45:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:45:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:45:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:45:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:45:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:45:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:45:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:45:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:45:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:45:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:45:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:46:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:46:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:46:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:46:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:46:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:46:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:55 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:52:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:52:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:52:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:52:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:52:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:52:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:53:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:53:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:53:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:53:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:53:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:53:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:53:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:53:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:53:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:53:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:53:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:53:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:54:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:54:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:54:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:54:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:54:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:54:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:54:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:54:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:54:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:54:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:54:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:54:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:54:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:54:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:54:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:54:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:54:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:54:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:55:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:55:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:55:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:55:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:55:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:55:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:55:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:55:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:55:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:55:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:55:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:55:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:56:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 19:56:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:81 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 19:56:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:91 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 19:56:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:58 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 19:56:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:71 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 19:56:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 19:56:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:24 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:34 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:49 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:62 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:02:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:02:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:02:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:03:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:03:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:03:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:03:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:41 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:03:42 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:56 - [93m⚠️ Could not initialize ClickHouse client: 'str' object has no attribute 'password'[0m
+2025-07-29 20:03:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:03:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:03:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:04:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:04:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:04:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:04:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:41 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:04:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:54 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:04:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:04:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:04:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:04:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:04:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:04:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:04:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:04:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:04:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:04:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:04:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:04:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:04:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:04:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:04:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:04:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:41 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:04:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:54 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:04:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:04:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:04:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:04:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:04:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:04:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:04:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:04:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:52 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:52 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:52 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:51 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:51 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:51 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:39 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:35 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:53 - [93m⚠️ Could not initialize ClickHouse client: name 'clickhouse_url' is not defined[0m
+2025-07-29 20:05:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:35 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:51 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:45 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:51 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:05:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:05:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:05:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:05:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:05:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:51 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:05:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:05:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:05:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:06:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:06:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:06:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:06:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:06:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:06:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:06:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:06:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:06:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:06:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:06:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:06:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:06:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:06:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:06:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:06:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:06:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:06:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:06:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:06:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:06:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:07:55 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:07:55 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:07:55 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:07:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:07:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:07:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:07:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:07:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:08:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:08:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:08:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:08:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:08:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:08:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:08:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:08:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:08:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:08:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:08:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:08:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:08:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:08:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:08:18 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:08:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:08:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:08:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:08:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:08:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:08:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:08:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:08:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:08:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:08:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:34 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:08:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:08:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:08:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:08:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:08:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:08:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:08:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:08:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:08:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:08:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:08:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:08:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:08:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:09:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:09:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:09:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:09:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:09:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:09:14 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:09:14 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:09:14 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:09:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:09:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:09:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:09:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:09:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:09:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:19 - [92m✅ MySQL engine ready[0m
+2025-07-29 20:09:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:24 - [92m✅ ClickHouse client ready[0m
+2025-07-29 20:09:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:29 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:09:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:34 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:09:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:36 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:09:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:09:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:09:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:09:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:09:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:10:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:10:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:10:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:10:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:10:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:10:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:10:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:10:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:10:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:10:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:10:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:10:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:10:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:10:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:10:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:10:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:10:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:10:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:10:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:16:24 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:16:24 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:16:24 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:16:24 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:16:24 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:18:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:18:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:18:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:19:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:19:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:19:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:19:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:19:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-29 20:19:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 20:19:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 20:19:21 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 20:33:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 20:33:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 20:33:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 20:33:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 20:33:12 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:58 - [93m⚠️ Could not initialize ClickHouse client: Code: 210. Connection refused (localhost:9000)[0m
+2025-07-29 21:19:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 21:19:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 21:19:04 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 21:19:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 21:19:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 21:19:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 21:19:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 21:19:07 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:58 - [93m⚠️ Could not initialize ClickHouse client: Code: 516.
+DB::Exception: default: Authentication failed: password is incorrect or there is no user with such name. Stack trace:
+
+0. DB::Exception::Exception(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, int, bool) @ 0xa82d07a in /usr/bin/clickhouse
+1. DB::AccessControl::authenticate(DB::Credentials const&, Poco::Net::IPAddress const&) const @ 0x12e5c500 in /usr/bin/clickhouse
+2. DB::Session::authenticate(DB::Credentials const&, Poco::Net::SocketAddress const&) @ 0x13b56dce in /usr/bin/clickhouse
+3. DB::Session::authenticate(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, Poco::Net::SocketAddress const&) @ 0x13b5679c in /usr/bin/clickhouse
+4. DB::TCPHandler::receiveHello() @ 0x147f5921 in /usr/bin/clickhouse
+5. DB::TCPHandler::runImpl() @ 0x147ef7cc in /usr/bin/clickhouse
+6. DB::TCPHandler::run() @ 0x14804259 in /usr/bin/clickhouse
+7. Poco::Net::TCPServerConnection::start() @ 0x1745e52f in /usr/bin/clickhouse
+8. Poco::Net::TCPServerDispatcher::run() @ 0x17460981 in /usr/bin/clickhouse
+9. Poco::PooledThread::run() @ 0x17611609 in /usr/bin/clickhouse
+10. Poco::ThreadImpl::runnableEntry(void*) @ 0x1760ed00 in /usr/bin/clickhouse
+11. ? @ 0x7fffff784609 in ?
+12. __clone @ 0x7fffff6ab293 in ?
+[0m
+2025-07-29 21:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-29 21:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-29 21:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-29 21:19:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-29 21:19:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-29 21:19:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-29 21:19:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-29 21:19:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 10:27:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 10:27:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 10:27:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 10:27:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 10:27:47 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 10:28:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 10:28:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 10:28:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:01:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:01:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:01:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:01:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:01:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:53 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:01:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:01:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:01:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:01:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:01:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:01:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:26 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:01:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:40 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:01:50 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:58 - [93m⚠️ Could not initialize ClickHouse client: Code: 210. Connection refused (localhost:9000)[0m
+2025-07-30 11:02:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:02:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:02:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:02:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:02:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:02:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:27 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:02:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:41 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:02:30 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:59 - [93m⚠️ Could not initialize ClickHouse client: Code: 210. Connection refused (localhost:9000)[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [91m❌ ERROR[0m - initialize_mysql_engine:31 - [91m❌ Could not initialize MySQL engine: 'Engine' object has no attribute 'execute'[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:42 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:02:32 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:60 - [93m⚠️ Could not initialize ClickHouse client: Code: 210. Connection refused (localhost:9000)[0m
+2025-07-30 11:02:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:02:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:02:36 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:02:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:02:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:02:38 - data_migration.UZAIR - [91m❌ ERROR[0m - initialize_mysql_engine:31 - [91m❌ Could not initialize MySQL engine: 'Engine' object has no attribute 'execute'[0m
+2025-07-30 11:02:38 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:42 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:02:38 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:60 - [93m⚠️ Could not initialize ClickHouse client: Code: 210. Connection refused (localhost:9000)[0m
+2025-07-30 11:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:02:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:03:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:03:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:03:25 - data_migration.UZAIR - [91m❌ ERROR[0m - initialize_mysql_engine:32 - [91m❌ Could not initialize MySQL engine: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 111] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m
+2025-07-30 11:03:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:03:25 - data_migration.UZAIR - [93m⚠️ WARNING[0m - initialize_clickhouse_client:61 - [93m⚠️ Could not initialize ClickHouse client: Code: 210. Connection refused (localhost:9000)[0m
+2025-07-30 11:04:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:04:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:04:13 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:04:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:04:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:04:15 - data_migration.UZAIR - [91m❌ ERROR[0m - initialize_mysql_engine:32 - [91m❌ Could not initialize MySQL engine: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods[0m
+2025-07-30 11:04:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:04:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:04:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:04:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:04:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:04:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:9 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:04:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:04:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:04:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:04:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:05:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:18 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:05:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:23 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:05:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:25 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:45:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:45:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:45:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:45:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:45:26 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:51:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:51:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:51:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:51:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:51:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:51:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:51:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:51:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:51:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:51:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:51:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:51:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:51:50 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:51:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:51:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:51:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:51:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:51:51 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:51:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:51:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:51:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:51:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:52:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:52:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:52:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:52:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:52:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:52:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:52:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:52:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:52:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:52:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:52:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:52:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:52:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:52:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:52:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:52:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:52:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:52:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:52:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:52:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:52:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:52:09 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:52:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:52:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:52:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:52:39 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:52:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:52:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:52:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:52:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:52:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:53:10 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:53:11 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:53:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:53:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:53:31 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:53:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:53:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:53:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:53:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:53:32 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:53:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:53:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:53:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:53:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:53:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:53:42 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:54:37 - data_migration.UZAIR - [92mℹ️ INFO[0m - orders_migration:15 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-30 11:54:37 - data_migration.UZAIR - [91m❌ ERROR[0m - get_mysql_session:18 - [91m❌ MySQL session error: [TypeError('cannot convert dictionary update sequence element #0 to a sequence'), TypeError('vars() argument must have __dict__ attribute')][0m
+2025-07-30 11:57:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:57:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:57:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:57:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:57:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:57:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:57:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:57:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:28 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 11:57:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 11:57:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - orders_migration:16 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:39 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:29 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:18:54 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:18:55 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:40 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:18:55 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:45 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:18:55 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:47 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:18:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:29 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:18:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:18:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:18:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:18:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:40 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:45 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:47 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:30 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:41 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:48 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:30 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:41 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:46 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:48 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:32 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:12 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:43 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:48 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:15 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:50 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:32 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:16 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:43 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:48 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:29 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:50 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:30 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:43 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:46 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:48 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:49 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:56 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:19:59 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:20:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 12:20:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 12:20:17 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 12:20:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 12:20:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 12:20:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 12:20:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 12:20:19 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 12:21:44 - data_migration.UZAIR - [92mℹ️ INFO[0m - orders_migration:16 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-30 12:28:52 - data_migration.UZAIR - [92mℹ️ INFO[0m - orders_migration:16 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-30 12:28:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - orders_migration:16 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-30 13:28:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 13:28:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 13:28:57 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 13:28:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 13:28:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 13:28:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 13:28:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 13:28:58 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 13:29:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 13:29:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 13:29:00 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 13:29:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 13:29:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 13:29:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 13:29:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 13:29:01 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 13:29:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 13:29:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 13:29:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 13:29:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 13:29:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 13:29:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 13:29:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 13:29:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:33:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:33:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:33:02 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:33:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:33:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:33:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:33:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:33:03 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:33:05 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:33:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:33:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:33:25 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:33:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:33:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:33:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:33:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:33:27 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:33:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:33:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:33:33 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:36:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:36:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:36:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:36:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:36:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:36:28 - data_migration.UZAIR - [92mℹ️ INFO[0m - orders_migration:15 - [92mRetrieved 5 orders from MySQL[0m
+2025-07-30 14:37:40 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:37:40 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:37:40 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:37:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:37:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:37:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:37:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:37:41 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:41:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:41:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:41:22 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:41:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:41:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:41:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:41:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:41:23 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:42:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:42:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:42:06 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:42:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:42:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:42:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:42:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:42:07 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - startup_event:33 - [92m🚀 Starting up Data Migration Project...[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:16 - [92m🔧 Initializing MySQL engine...[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_mysql_engine:29 - [92m✅ MySQL engine initialized successfully[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:43 - [92m🗄️ Initializing ClickHouse client...[0m
+2025-07-30 14:42:08 - data_migration.UZAIR - [92mℹ️ INFO[0m - initialize_clickhouse_client:56 - [92m✅ ClickHouse client initialized successfully[0m
+2025-07-30 14:56:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:44 - [92m🛑 Shutting down Data Migration Project...[0m
+2025-07-30 14:56:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:49 - [92m✅ ClickHouse client cleanup completed[0m
+2025-07-30 14:56:53 - data_migration.UZAIR - [92mℹ️ INFO[0m - shutdown_event:51 - [92m✅ MySQL engine cleanup completed[0m
