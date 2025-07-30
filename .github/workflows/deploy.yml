@@ -8,49 +8,32 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
-    env:
-      HOSTED_CLICKHOUSE_URL: ${{ secrets.HOSTED_CLICKHOUSE_URL }}
-      HOSTED_MYSQL_URL: ${{ secrets.HOSTED_MYSQL_URL }}
-      PORT: ${{ secrets.PORT }}
-      SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
-
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v3
 
-    - name: Deploy to EC2 via SSH
-      uses: appleboy/ssh-action@v1.0.0
-      with:
-        host: ${{ secrets.EC2_HOST }}
-        username: ${{ secrets.EC2_USER }}
-        key: ${{ secrets.EC2_SSH_KEY }}
-        script: |
-          # ✅ Clone repo if not already present
-          if [ ! -d "/home/ubuntu/cartlow-python-project-prc/.git" ]; then
-            echo "Cloning the repository###########################################3..."
-            git clone https://github.com/Uzair-DeVops/cartlow-python-project-prc.git /home/ubuntu/cartlow-python-project-prc
-            echo "Cloning Completed #####################################################..."
+      - name: Deploy to EC2 via SSH
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            # Clone or pull latest code
+            if [ ! -d "/home/ubuntu/cartlow-python-project-prc/.git" ]; then
+              git clone https://github.com/Uzair-DeVops/cartlow-python-project-prc.git /home/ubuntu/cartlow-python-project-prc
+            fi
 
-          else
-            echo "Repository already exists. Skipping clone."
-          fi
+            cd /home/ubuntu/cartlow-python-project-prc
+            git pull origin main
 
-          # 📥 Pull latest code
-          echo "Going into the cartlow-python-project-prc directory ###############################..."
-          cd /home/ubuntu/cartlow-python-project-prc
-          git pull origin main
+            # Export environment variables
+            export HOSTED_MYSQL_URL="${{ secrets.HOSTED_MYSQL_URL }}"
+            export HOSTED_CLICKHOUSE_URL="${{ secrets.HOSTED_CLICKHOUSE_URL }}"
+            export SENTRY_DSN="${{ secrets.SENTRY_DSN }}"
+            export PORT="${{ secrets.PORT }}"
 
-          echo "Creating env ############################################################3..."
-          # ✅ Create .env file line by line using echo
-          echo "HOSTED_MYSQL_URL=${{ secrets.HOSTED_MYSQL_URL }}" > .env
-          echo "HOSTED_CLICKHOUSE_URL=${{ secrets.HOSTED_CLICKHOUSE_URL }}" >> .env
-          echo "SENTRY_DSN=${{ secrets.SENTRY_DSN }}" >> .env
-          echo "PORT=${{ secrets.PORT }}" >> .env
-          echo "Created env ############################################################3..."
-
-          # 🐳 Rebuild and restart Docker
-          echo "Rebuilding and restarting Docker ############################################################3..."
-          sudo docker-compose down
-          sudo docker-compose build
-          sudo docker-compose up -d
-          echo "Rebuilding and restarting Docker Completed ############################################################3..."
+            # Rebuild and restart Docker
+            sudo docker-compose down
+            sudo docker-compose build
+            sudo docker-compose up -d
