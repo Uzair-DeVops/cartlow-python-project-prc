@@ -39,11 +39,11 @@ jobs:
 
           # 🔐 Write secrets into .env
           cat <<EOF > .env
-HOSTED_CLICKHOUSE_URL=${HOSTED_CLICKHOUSE_URL}
-HOSTED_MYSQL_URL=${HOSTED_MYSQL_URL}
-PORT=${PORT}
-SENTRY_DSN=${SENTRY_DSN}
-EOF
+          HOSTED_CLICKHOUSE_URL=${HOSTED_CLICKHOUSE_URL}
+          HOSTED_MYSQL_URL=${HOSTED_MYSQL_URL}
+          PORT=${PORT}
+          SENTRY_DSN=${SENTRY_DSN}
+          EOF
 
           # 🐳 Rebuild and restart the Docker Compose stack
           sudo docker-compose down
